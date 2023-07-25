@@ -1,0 +1,16 @@
+body{
+    background-color: lightgray;
+}
+#score{
+    font-size: 35px;
+    margin-left: 20px;
+    float: left;
+}
+#time{
+    font-size: 35px;
+    margin-right: 20px;
+    float: right;
+}
+#to_be_drawn{
+    color: olive;
+}
